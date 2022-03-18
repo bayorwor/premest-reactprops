@@ -17,7 +17,6 @@ nav {
   height: 100px;
   padding: 10px 20px;
   background-color: #55488d;
-  color: white;
 }
 
 .todo:hover {
@@ -32,6 +31,4 @@ main {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
-  width: 100vw;
 }
